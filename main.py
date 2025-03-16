@@ -5,7 +5,7 @@ import pandas as pd
 from PIL import Image
 import time # 時間を扱う機能をインポート
 
-st.title('Streamlit Hello World')
+st.title('Streamlit Hello World2')
 
 
 # 手順３
